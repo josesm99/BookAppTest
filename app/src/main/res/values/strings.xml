@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BookAppTest</string>
+    <string name="error_api_text">SUCEDIÓ UN ERROR AL LLAMAR AL API</string>
+</resources>
